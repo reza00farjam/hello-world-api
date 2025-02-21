@@ -6,7 +6,7 @@ A simple, free, and forever-available API that returns `"Hello, World!"`. No aut
 Send a GET request to:  
 
 ```bash
-https://<your-username>.github.io/hello-world-api/hello.json
+https://reza00farjam.github.io/hello-world-api/hello.json
 ```
 
 ### 📦 **Example Response**  
